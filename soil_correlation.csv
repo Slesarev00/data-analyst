@@ -1,0 +1,8 @@
+property,humus_percent,ph_kcl,s_mgek,hh_mgek,eko_mgek,v_percent,clay_percent
+humus_percent,1,0.6,0.3,-0.03,0.4,0.03,0.92
+ph_kcl,0.6,1,0.92,-0.6,0.47,0.64,0.88
+s_mgek,0.3,0.92,1,-0.2,0.97,0.74,0.58
+hh_mgek,-0.03,-0.6,-0.2,1,0.03,-0.68,0.77
+eko_mgek,0.4,0.47,0.97,0.03,1,0.6,0.75
+v_percent,0.03,0.64,0.74,-0.68,0.6,1,-0.26
+clay_percent,0.92,0.88,0.58,0.77,0.75,-0.26,1
